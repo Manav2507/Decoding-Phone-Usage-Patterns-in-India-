@@ -87,14 +87,3 @@ This project uses real-world-like mobile usage data to:
 - A significant cluster of users has **low data + high call time** – ideal for voice plans  
 - **XGBoost** outperformed other models in classifying primary usage type with ~89% F1-score  
 
----
-
-## 📸 Dashboard Screenshots
-
-> _Include:_
-- Streamlit interface
-- Cluster visualizations
-- Model prediction results
-- Recharge trend graphs
-
----
